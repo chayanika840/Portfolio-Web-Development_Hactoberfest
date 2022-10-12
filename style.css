@@ -16,16 +16,16 @@
 
 *::selection{
     background:var(--yellow);
-    color:#333;
+    color:#353;
 }
 
 html{
-    font-size: 62.5%;
+    font-size: 65.5%;
     overflow-x: hidden;
 }
 
 html::-webkit-scrollbar{
-    width:1.4rem;
+    width:1.5rem;
 }
 
 html::-webkit-scrollbar-track{
